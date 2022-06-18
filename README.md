@@ -1,4 +1,4 @@
-# Hi, I'm Roman 👋
+# Hi, I'm Nikita 👋
 <div align="center">
 <img src="https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg" width="600" height="400"/>
 </div>
