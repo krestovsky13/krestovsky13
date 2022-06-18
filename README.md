@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg)
-.. image:: https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg
+<!-- ![](https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg) -->
+image:: https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg
    :height: 100px
    :width: 200 px
    :scale: 50 %
