@@ -1,7 +1,5 @@
 # Hi, I'm Nikita 👋
 <div align="center">
-  <img scr="https://wikilogo.net/storage/logos/python-5.svg" width="100" height="100"/>
-<div align="center">
   <img src="https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg"          width="600" height="400"/>
 </div>
 <p align='center'>
