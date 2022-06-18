@@ -2,6 +2,7 @@
 <img src="https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg" width="600" height="400"/>
 </div>
 <div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </div>
 <!--
