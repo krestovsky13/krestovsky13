@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="C:\Users\nikkr\OneDrive\Рабочий стол\p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg" alt="альтернативный текст">
 <!--
 **krestovsky13/krestovsky13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
