@@ -1,5 +1,5 @@
-# Hi, I'm Nikita 👋
-<img src=https://gifki.info/uploads/posts/2017-01/1485504988_176-ornament-kolokolchiki.gif>
+# Hi, I'm Nikita 👋 <img src=https://gifki.info/uploads/posts/2017-01/1485504988_176-ornament-kolokolchiki.gif>
+
 <div align="center">
   <img src="https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg"          width="600" height="400"/>
 </div>
