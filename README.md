@@ -1,4 +1,4 @@
-# Hi, I'm Nikita 👋 <img src=https://gifki.info/uploads/posts/2017-01/1485504988_176-ornament-kolokolchiki.gif>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=FFFFFF00&lines=Hi%2C+I'm+Nikita+%F0%9F%91%8B)](https://git.io/typing-svg) <img src=https://gifki.info/uploads/posts/2017-01/1485504988_176-ornament-kolokolchiki.gif>
 
 <div align="center">
   <img src="https://github.com/krestovsky13/RESTful-API-blog/blob/main/p8FnFhyAFXkZCY7cia9zXfsT4AljeuHm2jgMRIEHM5xHeORsrL6tK6tsof1OpUFzMVDdXShIaqCOFZ8Wca87IuwL.jpg"          width="600" height="400"/>
