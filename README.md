@@ -9,7 +9,7 @@
   <a href="mailto:nikkres13@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
-   <a href="https://habr.com/ru/users/krestovsky13/">
+   <a href="https://www.linkedin.com/in/никита-крестьянников-784284264/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
