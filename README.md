@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&color=DCFFA5&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Nikita+-+Python+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=40&color=DCFFA5&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Nikita+-+Python+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
 <p align='center'>
   <a href="https://t.me/krestovksy13">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
