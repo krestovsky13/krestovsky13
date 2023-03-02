@@ -9,9 +9,6 @@
    <a href="https://www.linkedin.com/in/никита-крестьянников-784284264/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:nikkres@mail.com'>nikkres@mail.ru</a>
-</p>
 <!--
 **krestovsky13/krestovsky13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
